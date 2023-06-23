@@ -1,2 +1,2 @@
 # Greddiit
-A replica of the social media app reddiit. Made with MERN stack.
+A replica of the social media app reddit. Made with MERN stack.
